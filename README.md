@@ -1,69 +1,57 @@
-<h1 align="center">Hi 👋, I'm Muskan Mathuria</h1>
-
+<!-- ===================== HEADER ANIMATION ===================== -->
 <p align="center">
-  <a href="https://github.com/Muskan-Mathuria">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer;Programmer;Web+Development+Learner;Future+Software+Engineer" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Muskan%20Mathuria&fontSize=40&fontAlignY=35" />
 </p>
 
+<!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
-</p>
-
----
-
-## 👩‍💻 About Me  
-
-- 🌱 Currently learning **Web Development**  
-- 💻 Skills: **HTML, CSS, Java, Git & GitHub**  
-- 🎯 Goal: **Frontend / Software Developer**  
-- 🎓 BCA Student | MCA Aspirant  
-
----
-
-## 🛠️ Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,git,github" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=MCA+Student;Java+Learner;Aspiring+Software+Developer;Learning+by+Building+Projects" />
 </p>
 
 ---
 
-## 🚀 Projects  
+## 👋 Introduction
+I am **Muskan Mathuria**, an MCA student with a strong interest in  
+**Java programming and software development**.  
+I enjoy learning by building projects and improving my skills step by step.
 
-- 📘 **Java Basic Codes**  
-- 🧪 **Java Practice Projects**  
-- 📝 **Introduction Repository**  
-- 📄 **CV Repository**  
-
-👉 Check all projects here:  
-🔗 https://github.com/Muskan-Mathuria?tab=repositories
+This repository represents my **practical learning, clean coding approach,  
+and professional project structure**.
 
 ---
 
-## 📊 GitHub Stats  
+## 🚀 Project Title
+### **Professional College / Practice Project**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muskan-Mathuria&show_icons=true&theme=react" />
-</p>
+### 📌 Project Description
+This project is created for **learning and academic purposes**.  
+It focuses on:
+- Logic building  
+- Clean and readable code  
+- Proper folder structure  
+- Real-world programming basics  
 
+Perfect for **college submission** and **GitHub portfolio**.
+
+---
+
+## ✨ Key Features
+✔ Beginner-friendly implementation  
+✔ Well-structured code  
+✔ Easy to understand logic  
+✔ Professional documentation  
+✔ Scalable for future updates  
+
+---
+
+## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muskan-Mathuria&theme=react" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,git,github,vscode" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 📂 Project Structure
 
-<p align="center">
-  <a href="https://github.com/Muskan-Mathuria">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
 
----
-
-<p align="center">
-  ⭐ Thanks for visiting my profile ⭐  
-</p>
 
