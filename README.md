@@ -5,7 +5,7 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=BCA+Student;Java+Learner;Aspiring+Software+Developer;Learning+by+Building+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=BCA+Student; Python+Java+Learner;Aspiring+Software+Developer;Learning+by+Building+Projects" />
 </p>
 
 ---
