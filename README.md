@@ -11,7 +11,7 @@
 ---
 
 ## 👋 Introduction
-I am **Muskan Mathuria**, an MCA student with a strong interest in  
+I am **Muskan Mathuria**, an BCA student with a strong interest in  
 **Java programming and software development**.  
 I enjoy learning by building projects and improving my skills step by step.
 
