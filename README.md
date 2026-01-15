@@ -52,6 +52,6 @@ Perfect for **college submission** and **GitHub portfolio**.
 ---
 
 ## 📂 Project Structure
-
+  📽️  Weather App 🌦️
 
 
