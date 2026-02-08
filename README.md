@@ -90,6 +90,76 @@ Perfect for **college submission** and **GitHub portfolio**.
 
 
 
+<h1 align="center">✨ Hi, I'm Muskan Mathuria 👩‍💻</h1>
+<h3 align="center">Java Developer | Full Stack Learner | CS Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&width=550&lines=Java+Developer;Full+Stack+Development+Learner;Computer+Science+Student;Code+Practice+Everyday">
+</p>
+
+---
+
+## 🙋‍♀️ About Me
+
+- 🎓 Computer Science Student  
+- ☕ Passionate about **Java & Backend Development**
+- 🌱 Currently learning **Advanced Java, SQL & Web Technologies**
+- 💻 Love solving problems with clean code
+- ✨ Believe in *Consistency > Motivation*
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/muskanmathuria">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:muskanmathuria09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/muskan-mathuria-4b87aa386">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muskanmathuria&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muskanmathuria&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanmathuria&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🚀 My Focus
+
+- ✅ Core Java & OOP
+- ✅ SQL & Databases
+- 🔄 Backend Development
+- 🔄 Full Stack Projects
+
+---
+
+✨ *“First, solve the problem. Then, write the code.”*
 
 
 
