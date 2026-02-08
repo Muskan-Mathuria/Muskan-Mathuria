@@ -32,7 +32,6 @@ and professional project structure**.
 
 - 🎓 Computer Science Student  
 - ☕ Passionate about **Java & Backend Development**
-- 🌱 Currently learning **Advanced Java, SQL & Web Technologies**
 - 💻 Love solving problems with clean code
 - ✨ Believe in *Consistency > Motivation*
 
