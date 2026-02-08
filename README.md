@@ -115,4 +115,19 @@ Perfect for **college submission** and **GitHub portfolio**.
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=120&section=footer"/>
 </p>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=4000&pause=800&color=36D1DC&center=true&vCenter=true&width=600&lines=Hi+I'm+Muskan+Mathuria;BCA+Student;Java+%26+Full+Stack+Learner;Learning+by+Building+Projects" />
+</h1>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FBD3E9,100:BB377D&height=200&section=header&text=Muskan%20Mathuria&fontSize=40&fontColor=ffffff&animation=twinkling" />
+</p>
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=180&section=header&text=Hi%20I'm%20Muskan%20Mathuria&fontSize=36&fontColor=00E6FE&animation=blink" />
+</p>
 
