@@ -13,7 +13,6 @@
 ## 👋 Introduction
 I am **Muskan Mathuria**, an BCA student with a strong interest in  
 **Java programming and software development**.  
-<h3 align="center">Java Developer | Full Stack Learner | CS Student</h3>
 I enjoy learning by building projects and improving my skills step by step.
 
 This repository represents my **practical learning, clean coding approach,  
