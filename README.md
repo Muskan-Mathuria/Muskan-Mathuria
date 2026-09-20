@@ -21,6 +21,7 @@ and professional project structure**.
 ---
 
 ## 🛠️ Skills & Technologies
+- 💻 C Programming
 - ☕ Java (Core, OOPs, AWT, Swing)
 - 🗄️ SQL & MySQL
 - 🌐 HTML, CSS (Basics)
